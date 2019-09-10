@@ -6,7 +6,6 @@
 */
 
 * {
-    padding: 0 auto;
     margin: 0 auto;
 }
 
@@ -116,12 +115,7 @@ img {
 #outer {
     z-index: 2;
     position: relative;
-    /*
-    The width value below controls the overall width of the design. By default it's set to 82%
-    (so it'll take up 82% of the browser window's width). You can set it to a different percentage
-    value (70%, 90%, etc.) or even a pixel value (760px, 800px, etc.) to enforce a fixed width.
-    */
-    width: 960px;
+    max-width: 960px;
     border: solid 7px #fff;
     background-color: #fff;
     margin: 0 auto;
@@ -268,11 +262,19 @@ footer .right {
     border: none;
 }
 
-#blockStyle101Main51 {
+.post {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 13px;
     text-align: justify;
     background-repeat: no-repeat;
+}
+
+.post.services {
+    font-size: 16px;
+}
+
+.post.contact {
+    font-size: 16px;
 }
 
 #sidebar {
@@ -289,12 +291,23 @@ footer .right {
 .mapouter {
     text-align: right;
     height: 500px;
-    width: 600px;
+    max-width: 600px;
 }
 
 .gmap_canvas {
     overflow: hidden;
     background: none !important;
     height: 500px;
-    width: 600px;
+    max-width: 600px;
+}
+
+@media all and (max-width: 900px) {
+    #primarycontainer {
+        float: none;
+        width: 100%;
+    }
+
+    #secondarycontent {
+        float: none;
+    }
 }
