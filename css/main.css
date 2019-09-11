@@ -30,7 +30,6 @@ input {
 p {
     line-height: 1.5em;
     margin-bottom: 1.0em;
-    text-align: justify;
 }
 
 hr {
@@ -116,6 +115,7 @@ img {
     z-index: 2;
     position: relative;
     max-width: 960px;
+    min-height: 1000px;
     border: solid 7px #fff;
     background-color: #fff;
     margin: 0 auto;
@@ -191,6 +191,10 @@ img {
     margin-left: -3px;
 }
 
+#menu ul li:first-child {
+    margin-right: -1px;
+}
+
 #menu ul li a {
     padding: 7px 12px 10px 12px;
     color: #fff;
@@ -200,11 +204,11 @@ img {
     text-shadow: 1px 1px 0 #000;
 }
 #menu ul li a:hover {
-    background: rgba(0, 255, 4, 0.5);
+    background: rgba(0, 220, 4, 0.5);
 }
 
 #menu ul li.nav-selected a {
-    background: rgba(0, 255, 4, 0.8);
+    background: rgba(0, 220, 4, 0.8);
 }
 
 #content {
@@ -264,17 +268,8 @@ footer .right {
 
 .post {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 13px;
-    text-align: justify;
+    font-size: 1rem;
     background-repeat: no-repeat;
-}
-
-.post.services {
-    font-size: 16px;
-}
-
-.post.contact {
-    font-size: 16px;
 }
 
 #sidebar {
