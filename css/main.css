@@ -277,17 +277,11 @@ footer .right {
     text-align: center;
 }
 
-.mapouter {
-    text-align: right;
-    height: 500px;
-    max-width: 600px;
-}
-
-.gmap_canvas {
-    overflow: hidden;
+.gmap_canvas iframe {
     background: none !important;
     height: 500px;
-    max-width: 600px;
+    width: 600px;
+    margin-bottom: 10px;
 }
 
 @media all and (min-width: 901px) {
@@ -304,5 +298,9 @@ footer .right {
 
     #secondarycontent {
         float: none;
+    }
+
+    .gmap_canvas iframe {
+        width: 100%;
     }
 }
