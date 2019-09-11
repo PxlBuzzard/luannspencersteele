@@ -99,7 +99,6 @@ img {
     box-shadow: 5px 5px 10px #888888;
     background: rgb(246,246,222);
     background: linear-gradient(top, rgba(246,246,222,1) 0%,rgba(253,252,247,1) 25%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr= '#f6f6de', endColorstr='#fdfcf7',GradientType=0 );
 }
 
 .linklist {
@@ -259,11 +258,6 @@ footer .right {
 .right {
     position: relative;
     float: right;
-}
-
-.reflectBelow {
-    -webkit-box-reflect: below 0 -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.7, transparent), to(white));
-    border: none;
 }
 
 .post {
