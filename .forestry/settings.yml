@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Pages
 - type: document
-  path: "./index.md"
+  path: index.md
   label: Home
 - type: document
   path: "./pages/index.md"
