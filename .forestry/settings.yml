@@ -1,18 +1,15 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: document
   path: "./index.md"
   label: Home
-  match: "**/*"
-  read_only: false
 - type: document
   path: "./pages/index.md"
   label: About
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
