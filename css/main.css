@@ -121,7 +121,7 @@ img {
     box-shadow: 5px 5px 10px #333;
 }
 
-#header {
+header {
     position: relative;
     width: 100%;
     height: 120px;
@@ -139,14 +139,14 @@ img {
     text-align: center;
 }
 
-#header a {
+header a {
     color: #FFF;
     text-decoration: none;
     font-family: sans-serif;
     text-shadow: 2px 2px 0 #000;
 }
 
-#header a:hover {
+header a:hover {
     color: #608901;
 }
 

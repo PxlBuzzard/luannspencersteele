@@ -1,0 +1,26 @@
+{
+  "name": "luannespencersteele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "@11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/PxlBuzzard/luannespencersteele.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/PxlBuzzard/luannespencersteele/issues"
+  },
+  "homepage": "https://gitlab.com/PxlBuzzard/luannespencersteele#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@hirusi/eleventy-plugin-safe-external-links": "^0.14.3",
+    "eleventy-plugin-typeset": "^1.0.0"
+  }
+}
