@@ -10,7 +10,7 @@ sections:
   path: index.md
   label: Home
 - type: document
-  path: pages/index.md
+  path: pages/about/index.md
   label: About
 upload_dir: files
 public_path: "/files"
