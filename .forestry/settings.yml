@@ -12,6 +12,14 @@ sections:
 - type: document
   path: pages/about/index.md
   label: About
+- type: document
+  path: pages/services/index.md
+  label: Services
+  match: "**/*"
+- type: document
+  path: pages/contact/index.md
+  label: Contact
+  match: "**/*"
 upload_dir: files
 public_path: "/files"
 front_matter_path: ''
