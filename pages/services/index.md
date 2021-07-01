@@ -1,8 +1,8 @@
 ---
 layout: base.njk
 title: Services
----
 
+---
 <h1 style="text-align: center;">Services</h1>
 
 <img style="float: left; margin-left: 10px; margin-right: 10px;" src="/files/dreamstimelargeindividual.jpg" alt="A man pointing to the sun." width="285" height="186" />
@@ -37,4 +37,4 @@ Somatic Experiencing is a body-oriented approach to healing trauma that is based
 <h2 style="text-align: center;">Certified EMDR Therapist</h2>
 <img style="float: right; margin-left: 10px; margin-right: 10px;" src="/files/dreamstimeemdr.jpg" alt="A woman mediating by the beach." width="280" height="187" />
 
-EMDR is an integrative psychotherapy approach for the treatment of trauma.  EMDR has standardized protocols that incorporate many different treatment approaches.  The goal is to process distressing memories, reduce the effects of those memories, and allow an individual to develop more adaptive coping strategies.  EMDR uses a technique called “Bi-lateral stimulation” to enhance an individual’s ability to move through the process.
+EMDR is an integrative psychotherapy approach for the treatment of trauma. EMDR has standardized protocols that incorporate many different treatment approaches. The goal is to process distressing memories, reduce the effects of those memories, and allow an individual to develop more adaptive coping strategies. EMDR uses a technique called “Bi-lateral stimulation” to enhance an individual’s ability to move through the process.
