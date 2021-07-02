@@ -1,8 +1,8 @@
 ---
 layout: base.njk
 title: Contact
----
 
+---
 <img style="float: right; margin: 10px;" src="/files/dreamstime_xscontact.jpg" alt="A water droplet rippling in a lake." width="274" height="262" />
 
 # Contact
@@ -21,7 +21,12 @@ Fax: 314-432-7500
 
 Please note: Email is not a secure medium. Please be careful with what information you communicate through email.
 
+### Telehealth Link
+
+[https://doxy.me/lsscounseling](https://doxy.me/lsscounseling "https://doxy.me/lsscounseling")
+
 ### Hours
+
 Monday 12pm-10pm
 Tuesday 10am-5pm
 Thursday 9am-6pm
@@ -38,5 +43,5 @@ I am available for an initial consultation and to answer any of your questions. 
 ## Map
 
 <div class="gmap_canvas">
-    <iframe title="Google Maps" id="gmap_canvas" src="https://maps.google.com/maps?q=745%20Craig%20Road%20Suite%20206%20Creve%20Coeur%2C%20MO&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
+<iframe title="Google Maps" id="gmap_canvas" src="https://maps.google.com/maps?q=745%20Craig%20Road%20Suite%20206%20Creve%20Coeur%2C%20MO&t=&z=15&ie=UTF8&iwloc=&output=embed"></iframe>
 </div>
