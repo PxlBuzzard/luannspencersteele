@@ -35,7 +35,7 @@ I am available for an initial consultation and to answer any of your questions. 
 
 ## New Patient Forms
 
-[LSS Counseling Intake Packet](/files/lss_counseling_intake_packet.pdf)
+[LSS Counseling Intake Packet](file:///C:/Users/lssco/Documents/LSS_Counseling_intake_packet.pdf)
 [Client Rights](/files/LSS_COUNSELING_HIPAA_CLIENT_RIGHTS.pdf)
 [HIPAA Privacy Practices](/files/2013_HIPAA.pdf)
 [Release of Information](/files/LSS_COUNSELING_Release_of_info.pdf)
