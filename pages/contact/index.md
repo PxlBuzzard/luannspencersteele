@@ -40,6 +40,8 @@ I am available for an initial consultation and to answer any of your questions. 
 [HIPAA Privacy Practices](/files/2013_HIPAA.pdf)
 [Release of Information](/files/LSS_COUNSELING_Release_of_info.pdf)
 
+[lss-counseling-telehealth-consent.docx](/files/lss-counseling-telehealth-consent.docx "lss-counseling-telehealth-consent.docx")
+
 ## Map
 
 <div class="gmap_canvas">
