@@ -1,8 +1,8 @@
 ---
 layout: base.njk
 title: Contact
-
 ---
+
 <img style="float: right; margin: 10px;" src="/files/dreamstime_xscontact.jpg" alt="A water droplet rippling in a lake." width="274" height="262" />
 
 # Contact
@@ -27,9 +27,9 @@ Please note: Email is not a secure medium. Please be careful with what informati
 
 ### Hours
 
-Monday 12pm-10pm
-Tuesday 10am-5pm
-Thursday 9am-6pm
+Monday 12pm - 10pm
+Tuesday 10am - 5pm
+Thursday 9am - 6pm
 
 I am available for an initial consultation and to answer any of your questions. I answer my own phone so you will be talking directly to me. If I am unable to take your call, you can leave your name, number, and a brief message, and I will personally return your call as soon as possible.
 
