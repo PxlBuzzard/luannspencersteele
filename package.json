@@ -19,8 +19,6 @@
   },
   "homepage": "https://gitlab.com/PxlBuzzard/luannespencersteele#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
-    "@hirusi/eleventy-plugin-safe-external-links": "^0.14.3",
-    "eleventy-plugin-typeset": "^1.0.0"
+    "@11ty/eleventy": "^2.0.1"
   }
 }
