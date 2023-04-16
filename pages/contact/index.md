@@ -15,7 +15,7 @@ Creve Coeur, MO 63141
 </address>
 <br>
 
-Phone:  314-409-2362
+Phone: 314-409-2362
 Email: [lsscounseling@att.net](mailto:lsscounseling@att.net)
 Fax: 314-432-7500
 
