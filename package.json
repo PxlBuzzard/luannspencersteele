@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx @11ty/eleventy",
+    "build": "npx tinacms build && npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve",
     "tina": "npx tinacms dev -c \"npx @11ty/eleventy --serve\""
   },
