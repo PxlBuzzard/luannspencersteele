@@ -38,9 +38,8 @@ I am available for an initial consultation and to answer any of your questions. 
 [LSS Counseling Intake Packet](/files/lss_counseling_intake_packet.pdf)
 [Client Rights](/files/LSS_COUNSELING_HIPAA_CLIENT_RIGHTS.pdf)
 [HIPAA Privacy Practices](/files/2013_HIPAA.pdf)
-[Release of Information](/files/LSS_COUNSELING_Release_of_info.pdf)
-
-[lss-counseling-telehealth-consent.docx](/files/lss-counseling-telehealth-consent.docx "lss-counseling-telehealth-consent.docx")
+[Release of Information\
+](/files/LSS_COUNSELING_Release_of_info.pdf)[lss-counseling-telehealth-consent.docx](/files/lss-counseling-telehealth-consent.docx "lss-counseling-telehealth-consent.docx")
 
 ## Map
 
