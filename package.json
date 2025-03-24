@@ -1,8 +1,12 @@
 {
   "name": "luannespencersteele",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
+  "private": true,
+  "engines": {
+    "node": "^22"
+  },
   "scripts": {
     "build": "npx tinacms build && npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve",
