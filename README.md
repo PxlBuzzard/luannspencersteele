@@ -11,7 +11,7 @@ npm run serve
 
 ## Tech stack
 
-- [GitLab](https://gitlab.com/PxlBuzzard/luannespencersteele) - Git hosting service.
+- [GitHub](https://github.com/PxlBuzzard/luannspencersteele) - Git hosting service.
 - [Netlify](https://netlify.com) - Free web hosting service.
 - [Eleventy](https://www.11ty.dev/) - A static site generator with minimal overhead.
 - [TinaCMS](https://tina.io) - A markdown editor that pushes changes back to git.
