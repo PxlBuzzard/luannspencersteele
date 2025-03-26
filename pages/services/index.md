@@ -1,8 +1,8 @@
 ---
 layout: base.njk
 title: Services
-
 ---
+
 <h1 style="text-align: center;">Services</h1>
 
 <img style="float: left; margin-left: 10px; margin-right: 10px;" src="/files/dreamstimelargeindividual.jpg" alt="A man pointing to the sun." width="285" height="186" />
