@@ -1,9 +1,11 @@
-module.exports = function (config) {
-  // *** Imports
-  const markdownIt = require("markdown-it");
+import mustachePlugin from "@11ty/eleventy-plugin-mustache";
+import markdownIt from "markdown-it";
 
+export default function (config) {
   const is11tyProduction = process.env.ELEVENTY_ENV === "production";
   const is11tyStaging = process.env.ELEVENTY_ENV === "staging";
+
+  config.addPlugin(mustachePlugin);
 
   // *** Misc Options
   config.addPassthroughCopy("files");
@@ -45,4 +47,4 @@ module.exports = function (config) {
       data: "_data",
     },
   };
-};
+}
