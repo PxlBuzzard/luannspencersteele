@@ -17,7 +17,7 @@
         {% include "header.html" %}
 
         <div id="headerpic">
-            <img src="/images/hdrpic.jpg" width="960" height="154" alt="" />
+            <img src="/images/hdrpic.jpg" width="960" height="154" alt="calm stream" />
 
             <div id="menu">
                 <ul class="nav-header">
@@ -31,11 +31,9 @@
 
         <div id="content">
             <div id="primarycontainer">
-                <div id="primarycontent">
-                    <div class="post">
+                    <main class="post">
                         {{ content | safe }}
-                    </div>
-                </div>
+                    </main>
             </div>
             {% include "sidebar.html" %}
         </div>

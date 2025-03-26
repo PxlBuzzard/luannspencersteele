@@ -1,6 +1,6 @@
 {
   "name": "luannespencersteele",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,7 @@
     "dev": "tinacms dev -c \"npm run serve\"",
     "build": "tinacms build && npx @11ty/eleventy",
     "format": "prettier --write .",
-    "serve": "npx @11ty/eleventy --serve",
+    "serve": "npx @11ty/eleventy --serve --port=8081",
     "diff-tina-lock": "tinacms-scripts diff-tina-lock",
     "update-tina-lock": "tinacms dev --no-server"
   },
