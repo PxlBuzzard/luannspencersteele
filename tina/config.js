@@ -6,8 +6,8 @@ export default defineConfig({
     process.env.VERCEL_GIT_COMMIT_REF ||
     process.env.HEAD ||
     "master",
-  clientId: process.env.tinaClientId ?? null,
-  token: process.env.tinaToken ?? null,
+  clientId: process.env.tinaClientId,
+  token: process.env.tinaToken,
 
   build: {
     outputFolder: "admin",
@@ -21,7 +21,7 @@ export default defineConfig({
   },
   search: {
     tina: {
-      indexerToken: process.env.tinaSearchToken ?? null,
+      indexerToken: process.env.tinaSearchToken,
       stopwordLanguages: ["eng"],
     },
     indexBatchSize: 100,
