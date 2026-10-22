@@ -27,13 +27,13 @@
   },
   "homepage": "https://gitlab.com/PxlBuzzard/luannespencersteele#readme",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy": "^3.1.7",
     "@11ty/eleventy-plugin-mustache": "^1.0.1",
-    "tinacms": "^3.14.1"
+    "tinacms": "^3.15.0"
   },
   "devDependencies": {
-    "@tinacms/cli": "^3.1.0",
+    "@tinacms/cli": "^4.0.3",
     "@tinacms/scripts": "^1.6.4",
-    "prettier": "^3.9.9"
+    "prettier": "^3.9.10"
   }
 }
